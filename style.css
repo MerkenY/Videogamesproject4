@@ -1,0 +1,37 @@
+img {
+
+width: 200px;  
+border-radius: 35%;
+}
+body {
+  text-align: center;
+  background: linear-gradient (#FF2323 0%, #D20606 100%);
+  background-repeat:no-repeat;
+}
+.line {
+ width: 70px;   
+ height: 6px;   
+ background-color: black;
+ margin: 8px auto; 
+}
+
+.menu{
+list-style:none;
+font-family:cursive;
+float: right;
+top: 10px;
+right: 30px;
+cursor: pointer;
+color: black;
+    
+
+}
+
+
+
+img:hover{
+    
+ transform: scale(0.9)
+    
+    
+}
